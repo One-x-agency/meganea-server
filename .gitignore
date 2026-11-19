@@ -13,3 +13,7 @@ yarn-error.log*
 /logs
 
 docker-build.sh
+# Added by Auto-Setup
+dist/
+build/
+
